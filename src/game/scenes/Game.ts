@@ -1,5 +1,5 @@
 import { Scene } from 'phaser';
-
+import { Player } from '../objects/Player';
 export class Game extends Scene
 {
     camera: Phaser.Cameras.Scene2D.Camera;
